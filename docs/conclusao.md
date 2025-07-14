@@ -21,8 +21,6 @@ Esses pods consomem slots que, em instâncias pequenas, comprometem o espaço pa
 
 ## O que Faria Diferente
 
-Se fosse recomeçar o projeto, uma melhoria fundamental seria a **configuração de um domínio personalizado**. Durante o desenvolvimento, o acesso à aplicação foi feito diretamente por meio da URL gerada pelo **Elastic Load Balancer (ELB)** da AWS, o que não é ideal para ambientes de produção.
+Se fosse recomeçar o projeto, uma melhoria fundamental seria a **configuração de um domín`o personalizado**. Durante o desenvolvimento, o acesso à aplicação foi feito diretamente por meio da URL gerada pelo **Elastic Load Balancer (ELB)** da AWS, o que não é ideal para ambientes de produção.
 
 Essa melhoria aumentaria a aderência do projeto a práticas reais de deploy e operação de sistemas em produção.
-
----
