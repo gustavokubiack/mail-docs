@@ -1,0 +1,12 @@
+site_name: Mail
+nav:
+  - Introdução: index.md
+  - Escolha do Ambiente: escolha-do-ambiente.md
+  - Provisionamento: provisionamento.md
+  - Cluster Kubernetes: cluster-kubernetes.md
+  - GitOps com ArgoCD: gitops-argocd.md
+  - Aplicação: aplicacao.md
+  - Conclusão: conclusao.md
+  - Repositórios: repositorio.md
+theme:
+  name: material
